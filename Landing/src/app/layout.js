@@ -11,7 +11,7 @@ const league_Spartan = League_Spartan({
 })
 
 export const metadata = {
-  title: 'Hously - React Next Js Real Estate Template',
+  title: 'Hously - ',
   description: 'Hously React Next Js Real Estate Template',
 }
 
